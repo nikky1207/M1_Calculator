@@ -13,7 +13,7 @@ clean-test:
 	rm -rf *.o test.out        
 run: run-code run-test
 run-code:
-	./co.out
+	./code.out
 run-test:
 	./test.out        
 
