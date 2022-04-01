@@ -1,3 +1,5 @@
+#include "function.h"
+
 int addition()  
 {  
     int i, sum = 0, num, f_num; // declare a local variable   
