@@ -8,4 +8,4 @@ int sq()
     printf (" \n The Square of %d is: %d", n1, res);  
 }  
   
-// use sqrt1() function to get the square root of the given nu
+// use sqrt1() function to get the square root of the given number
