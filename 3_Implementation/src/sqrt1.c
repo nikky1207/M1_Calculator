@@ -1,3 +1,4 @@
+#include "function.h"
 int sqrt1()  
 {  
     float res;  
