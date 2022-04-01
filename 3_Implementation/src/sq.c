@@ -1,3 +1,4 @@
+#include "function.h"
 int sq()  
 {  
     int n1, res;  
