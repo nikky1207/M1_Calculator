@@ -1,5 +1,11 @@
 # M1_ simple calculator
 
+
+![image](https://user-images.githubusercontent.com/74638840/161258263-c110e380-f2cb-4530-9ed1-34659c353715.png)
+
+
+
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
