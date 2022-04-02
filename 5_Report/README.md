@@ -26,6 +26,10 @@
 * Its getting hard for Casio to enter sports and other tech-product lines as there’re already many strong brands are ruling. 
 * Their slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
+# flow chart
+![image](https://user-images.githubusercontent.com/74638840/161234951-42ad6847-71b1-407d-ab9a-b9c58c3575a1.png)
+
+
 
 
 ## High level test plan
